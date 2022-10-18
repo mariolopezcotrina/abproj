@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/abproj/static/css/main.838d1822.css",
+    "main.js": "/abproj/static/js/main.be7111b8.js",
+    "static/js/787.ec704a7a.chunk.js": "/abproj/static/js/787.ec704a7a.chunk.js",
+    "static/media/banner3.png": "/abproj/static/media/banner3.37a3c905a7eb124e872e.png",
+    "static/media/banner.png": "/abproj/static/media/banner.b82f230ab8a3c88806fe.png",
+    "static/media/banner2.png": "/abproj/static/media/banner2.29377cc7cfa50bd584fb.png",
+    "static/media/imagen14.jpeg": "/abproj/static/media/imagen14.a29f757138e548b6da65.jpeg",
+    "static/media/imagen4.jpeg": "/abproj/static/media/imagen4.53baca15fa58a1e08474.jpeg",
+    "static/media/imagen3.jpeg": "/abproj/static/media/imagen3.4f2816392836014476d7.jpeg",
+    "static/media/imagen11.jpeg": "/abproj/static/media/imagen11.10c07aeaa86d867e1288.jpeg",
+    "static/media/imagen13.jpeg": "/abproj/static/media/imagen13.862aaa11795c0f77453c.jpeg",
+    "static/media/imagen8.jpeg": "/abproj/static/media/imagen8.7af369a76f5596ef3e95.jpeg",
+    "static/media/imagen9.jpeg": "/abproj/static/media/imagen9.2e1e111d34557dd8d53c.jpeg",
+    "static/media/imagen6.jpeg": "/abproj/static/media/imagen6.4e3ef31f8a6bf0421315.jpeg",
+    "static/media/imagen15.jpeg": "/abproj/static/media/imagen15.22adf3133cc66455b415.jpeg",
+    "static/media/imagen2.jpeg": "/abproj/static/media/imagen2.fa55b125a6ee1b20eb31.jpeg",
+    "static/media/imagen5.jpeg": "/abproj/static/media/imagen5.25c93498e2b8cee0c786.jpeg",
+    "static/media/imagen10.jpeg": "/abproj/static/media/imagen10.44601c714d55aa3b6498.jpeg",
+    "static/media/imagen12.jpeg": "/abproj/static/media/imagen12.788ecf2d147f85f8e1cc.jpeg",
+    "static/media/imagen7.jpeg": "/abproj/static/media/imagen7.922e702eb0a9be66e63e.jpeg",
+    "static/media/logo.png": "/abproj/static/media/logo.842c9408c44e7fd6a8a5.png",
+    "static/media/mision.png": "/abproj/static/media/mision.4dedffb7d078d857ef62.png",
+    "static/media/vision.png": "/abproj/static/media/vision.b3c822c33e54aafeeee9.png",
+    "index.html": "/abproj/index.html",
+    "static/media/fondo2.svg": "/abproj/static/media/fondo2.c04c9282d1c0ad95e665.svg",
+    "main.838d1822.css.map": "/abproj/static/css/main.838d1822.css.map",
+    "main.be7111b8.js.map": "/abproj/static/js/main.be7111b8.js.map",
+    "787.ec704a7a.chunk.js.map": "/abproj/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.838d1822.css",
+    "static/js/main.be7111b8.js"
+  ]
+}
